@@ -1,0 +1,1 @@
+# prime num with i**2 < n
